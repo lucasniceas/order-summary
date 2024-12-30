@@ -1,3 +1,4 @@
+
 # Cartão de Resumo de Pedido
 
 Bem-vindo ao projeto **Order Summary**, desenvolvido como parte de um desafio do Frontend Mentor. Este projeto é um componente de cartão de resumo de pedido, criado para praticar habilidades de desenvolvimento front-end com HTML e CSS.
@@ -10,6 +11,7 @@ Este projeto consiste na construção de um cartão de resumo de pedido que repl
 ## 🛠️ Tecnologias Utilizadas
 - **HTML5**: Estrutura do conteúdo.
 - **CSS3**: Estilização e responsividade.
+- **JavaScript**: Funcionalidades adicionais.
 
 ## 🎯 Funcionalidades
 - Design fiel ao protótipo fornecido.
@@ -30,12 +32,11 @@ Este projeto consiste na construção de um cartão de resumo de pedido que repl
 ## 📁 Estrutura do Projeto
 ```
 order-summary/
-├── design/                # Visual do protótipo fornecido
-├── images/                # Recursos visuais e imagens
-├── index.html             # Arquivo principal HTML
-├── style.css              # Estilos do projeto
-├── README.md              # Documentação
-└── style-guide.md         # Guia de estilo do desafio
+├── img/                 # Recursos visuais e imagens
+├── index.html           # Arquivo principal HTML
+├── index.css            # Estilos do projeto
+├── index.js             # Arquivo JavaScript para funcionalidades
+└── README.md            # Documentação
 ```
 
 ## 📢 Melhorias Implementadas
@@ -48,4 +49,3 @@ Este projeto está licenciado sob a [Licença MIT](LICENSE).
 ## 📬 Contato
 - **GitHub**: [Lucas Niceas](https://github.com/lucasniceas)
 - **E-mail**: lucassniceaspt@hotmail.com
-
